@@ -1,0 +1,5 @@
+{
+  "name": "Computer Basics Quiz",
+  "description": "A simple and interactive quiz application to test your fundamental knowledge of computers. Answer 20 objective-style questions and get your score instantly.",
+  "requestFramePermissions": []
+}
